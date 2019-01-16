@@ -1,5 +1,15 @@
 # jQuery FocusPoint
 
+## FocusPoint 2
+
+I started work on a major update to this plugin a couple of years ago, but it has been in limbo for a while and probably won't be picked up again unless someone wants to sponsor the work (please [get in touch](http://jonathonmenz.com) if you do!). I didn't get as far as removing the jQuery dependancy but please feel free to use the v-2-dev branch to benefit from a few new features:
+
+* Better resizing performance
+* More familiar coordinate system (like that used in CSS)
+* Suppor for ideal and minimum cropping region
+
+If you love this plugin feel free to send me an encouraging email or consider sponsoring an update. You're also welcome to make a [small donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5VUDD3ACRC4TC) if you like. I receive an average of one per year, so it won't go unnoticed. 😄💰
+
 ## Intelligent cropping for flexible image containers
 
 ![image](demos/img/demo.jpg?raw=true)
@@ -132,15 +142,15 @@ Nothing would encourage me to keep updating this script more than hearing how it
 
 **Note:** To date I'm not yet aware of any live websites (apart from my own) that use this plugin - so please get in touch if you launch a site that uses FocusPoint!
 
-#### Feeling generous?
+#### Tip jar
 
-If FocusPoint helped you impress a client and you want to say thanks, you're welcome to [leave a small donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5VUDD3ACRC4TC) to help fund the purchase of coffee, which will help facilitate future development. But that is totally optional.
+If FocusPoint helped you impress a client and you want to say thanks, you're welcome to [leave a small donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5VUDD3ACRC4TC) to help fund the purchase of coffee, which will help me stay awake during future development.
 
 [<img src="https://www.paypalobjects.com/en_AU/i/btn/btn_donate_LG.gif" alt="Donate">](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5VUDD3ACRC4TC)
 
-Donations received so far: **2**  
-Which generated this many warm fuzzies: **2**  
-And paid for this many caffé lattes: **4**  
+Donations received / Warm fuzzies generated: **6**  
+Caffé Lattes funded: **17** :coffee: :relieved:  
+**Thanks!** Daniil, Cohan, Romulo, Lemuel, David
 
 ## Changelog
 
